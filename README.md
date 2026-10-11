@@ -58,7 +58,7 @@ I'm a Computer Science & Multimedia Technology student at the University of Cost
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorna-murillo-8b3463323)
 
 ---
-#### **GitHub Status**
+#### 📊 GitHub Status 
 
 <p align="center">
   <img height="150" width="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp" />
