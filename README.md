@@ -1,15 +1,10 @@
-<h1 align="center">Hello! I'm Lorna! </h1>
+<h1 align="center">Hello! I'm Lorna!</h1>
 
-I'm a Computer Science and Multimedia Technology student from University of Costa Rica, working as a Full Stack Developer with a strong interest in Data Analytics, Machine Learning, Computer Vision, and IT Infrastructure.
+I'm a Computer Science & Multimedia Technology student at the University of Costa Rica 🇨🇷 and Full Stack Developer. I have a deep passion and growing interest in **Data Analytics, Machine Learning, Computer Vision, and IT Infrastructure**.
 
-🔍 I enjoy solving real-world problems through code, data-driven insights, and efficient workflows. I'm detail-oriented, fast-learning, and motivated by continuous learning and technical impact.
-
-🛠️ Currently working on:
-- 💻 IT Application Development Assistant at Universidad de Costa Rica.
-
-- 🌐 Active WordPress Community Contributor.
-
-- 🤖 Exploring Computer Vision applications.
+- 📊 **Areas of Interest:** Focused on learning and exploring data pipelines, statistical data analysis, and modern AI/ML technologies.
+- 👁️ **Computer Vision:** Deeply fascinated by vision-based models, image processing, and intelligent gesture recognition.
+- 💻 **Practical Experience & Community:** Working as an IT Application Development Assistant at UCR, developing full-stack web solutions, and actively contributing as a WordPress community organizer.
 
 ---
 
