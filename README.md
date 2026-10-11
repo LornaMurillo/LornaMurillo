@@ -1,6 +1,6 @@
 <h1 align="center">Hello! I'm Lorna!</h1>
 
-I'm a Computer Science & Multimedia Technology student at the University of Costa Rica 🇨🇷 and Full Stack Developer. I have a deep passion and growing interest in **Data Analytics, Machine Learning, Computer Vision, and IT Infrastructure**.
+I'm a Computer Science & Multimedia Technology student at the University of Costa Rica and Full Stack Developer. I have a deep passion and growing interest in **Data Analytics, Machine Learning, Computer Vision, and IT Infrastructure**.
 
 - 📊 **Areas of Interest:** Focused on learning and exploring data pipelines, statistical data analysis, and modern AI/ML technologies.
 - 👁️ **Computer Vision:** Deeply fascinated by vision-based models, image processing, and intelligent gesture recognition.
