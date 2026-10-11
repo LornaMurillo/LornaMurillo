@@ -15,7 +15,6 @@ I'm a Computer Science and Multimedia Technology student from University of Cost
 
 ### 💻 Tech Stack:
 
-#### 💻 **Languages, Frameworks & Web Tech**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -75,6 +74,10 @@ I'm a Computer Science and Multimedia Technology student from University of Cost
 ---
 
 ![3D Profile](https://github.com/LornaMurillo/LornaMurillo/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LornaMurillo/LornaMurillo/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" />
+</p>
 
 ---
 
