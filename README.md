@@ -73,8 +73,6 @@ I'm a Computer Science and Multimedia Technology student from University of Cost
 
 ---
 
-![3D Profile](https://github.com/LornaMurillo/LornaMurillo/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/LornaMurillo/LornaMurillo/master/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Profile Contrib" />
 </p>
